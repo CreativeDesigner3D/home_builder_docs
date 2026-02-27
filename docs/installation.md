@@ -7,7 +7,7 @@
 
 ## Install from Disk
 
-1. Download the latest release `.zip` [Here](https://creativedesigner3d.wordpress.com/wp-content/uploads/2026/02/home_builder_5_beta1.zip)
+1. Download the latest release `.zip` [Here](https://creativedesigner3d.wordpress.com/wp-content/uploads/2026/02/home_builder_5-5.0.0.zip)
 2. Open Blender
 3. Go to **Edit → Preferences → Add-ons**
 4. Open the dropdown menu (top-right) and select **Install from Disk...**
