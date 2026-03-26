@@ -14,11 +14,11 @@ For a general video overview of how to design with Home Builder, check out this 
 
 At the top of the sidebar you'll see a dropdown showing the current room name. Click it to switch between rooms or create a new one. Every room in your project is its own Blender scene, so switching rooms switches the entire scene.
 
-![alt text](images/Room_Selector.png)
+![Room Selector dropdown](images/Room_Selector.png)
 
 Below the room selector is the **Frameless Selection Mode** bar. This controls what gets selected when you click on cabinets in the viewport:
 
-![alt text](images/Frameless_Selection_Mode.png)
+![Frameless Selection Mode bar](images/Frameless_Selection_Mode.png)
 
 - **Cabinets** — Selects the entire cabinet. This is the default and what you'll use most of the time.
 - **Bays** — Selects individual bay sections within a cabinet. Right Click on a bay to change the entire bay configuration.
@@ -30,13 +30,14 @@ Below the room selector is the **Frameless Selection Mode** bar. This controls w
     If you right-click a cabinet and don't see the options you expect, check which selection mode you're in.
 
     Objects will be shaded in blue depending on your selection mode.
+
 ---
 
 ## Project
 
 The Project panel stores information about your project and manages your rooms.
 
-![alt text](images/Project_Panel.png)
+![Project panel](images/Project_Panel.png)
 
 ### Project Info
 
@@ -44,7 +45,7 @@ Collapsible subpanel where you enter project details: project name, number, date
 
 ### Rooms
 
-![alt text](images/Room_Sub_Panel.png)
+![Rooms subpanel](images/Room_Sub_Panel.png)
 
 Lists all rooms in your project. Click a room name to switch to it. You can add, rename, duplicate, and delete rooms from here. Use the up/down arrows to reorder rooms.
 
@@ -54,7 +55,7 @@ Lists all rooms in your project. Click a room name to switch to it. You can add,
 
 ## Room Layout
 
-![alt text](images/Room_Layout_Panel.png)
+![Room Layout panel](images/Room_Layout_Panel.png)
 
 This is where you build the physical space — walls, doors, windows, and everything that defines the room before you start placing cabinets.
 
@@ -110,7 +111,7 @@ Place a staircase in your room. Click **Place Stairs** to position it, then righ
 
 ## Product Library
 
-![alt text](images/Product_Library_Panel.png)
+![Product Library panel](images/Product_Library_Panel.png)
 
 This is where you place cabinets, appliances, and other products. The dropdown at the top lets you switch between product libraries:
 
@@ -131,7 +132,7 @@ Right-click any placed product to access its **Prompts** — this is where you c
 
 Create 2D technical drawings from your 3D design. Click the **Create Layout Views** dropdown to choose a view type:
 
-![alt text](images/Layout_View_Menu.png)
+![Create Layout Views menu](images/Layout_View_Menu.png)
 
 - **All Wall Elevations** — Creates elevation drawings for every wall in the room at once.
 - **Elevation (Selected Wall)** — Creates an elevation drawing of whichever wall is currently selected.
@@ -154,7 +155,7 @@ Only visible when you're inside a layout view. Lists any 2D details you've creat
 
 ## 2D Details
 
-![alt text](images/2D_Detail_Panel.png)
+![2D Details panel](images/2D_Detail_Panel.png)
 
 Create custom 2D detail drawings — things like molding profiles, construction details, or section views that you want to include in your layout pages.
 
@@ -166,7 +167,7 @@ Once inside a detail view, use the **Annotations** panel tools (below) to draw l
 
 ## Annotations
 
-![alt text](images/Annotations_Panel.png)
+![Annotations panel](images/Annotations_Panel.png)
 
 Tools for adding 2D markup to layout views and detail views.
 
