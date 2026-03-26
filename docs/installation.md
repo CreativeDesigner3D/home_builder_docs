@@ -27,7 +27,7 @@ This is the easiest way to install Home Builder 5.
 
 If you would rather install the add-on manually follow these steps.
 
-1. Download the latest release `.zip` [Home Builder 5 Download](https://creativedesigner3d.wordpress.com/wp-content/uploads/2026/02/home_builder_5-5.0.0.zip)
+1. Download the latest release `.zip` from the [Blender Extensions Platform](https://extensions.blender.org/add-ons/home-builder-5/)
 2. Open Blender
 3. Go to **Edit → Preferences → Add-ons**
 4. Open the dropdown menu (top-right) and select **Install from Disk...**
